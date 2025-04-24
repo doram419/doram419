@@ -8,12 +8,13 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=doram419&color=blue)
 ![OS](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
 ![IDE](https://img.shields.io/badge/IDE-VSCode-blue?logo=visualstudiocode)
-![Snake animation](https://github.com/doram419/doram419/blob/output/github-contribution-grid-snake.svg)
+
 - 🌱 I’m currently learning **TypeScript** and **Next.js**
 - 🛠️ I use: ![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
 - 📫 How to reach me: [doram@example.com](mailto:doram@example.com)
 
+/*
 ### 💬 Chat with My Sidekick AI
 > Need help with code, bugs, or ideas?
 
-🎙️ Ask my AI assistant here → [ChatGPT Online AI 도우미](https://gptonline.ai/ko/)
+🎙️ Ask my AI assistant here → */
